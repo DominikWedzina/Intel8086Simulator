@@ -1,0 +1,15 @@
+C:\Users\48535\OneDrive\Pulpit\C#\Intel8086\Intel8086\bin\Debug\net6.0\Intel8086.exe
+C:\Users\48535\OneDrive\Pulpit\C#\Intel8086\Intel8086\bin\Debug\net6.0\Intel8086.deps.json
+C:\Users\48535\OneDrive\Pulpit\C#\Intel8086\Intel8086\bin\Debug\net6.0\Intel8086.runtimeconfig.json
+C:\Users\48535\OneDrive\Pulpit\C#\Intel8086\Intel8086\bin\Debug\net6.0\Intel8086.dll
+C:\Users\48535\OneDrive\Pulpit\C#\Intel8086\Intel8086\bin\Debug\net6.0\Intel8086.pdb
+C:\Users\48535\OneDrive\Pulpit\C#\Intel8086\Intel8086\obj\Debug\net6.0\Intel8086.csproj.AssemblyReference.cache
+C:\Users\48535\OneDrive\Pulpit\C#\Intel8086\Intel8086\obj\Debug\net6.0\Intel8086.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48535\OneDrive\Pulpit\C#\Intel8086\Intel8086\obj\Debug\net6.0\Intel8086.AssemblyInfoInputs.cache
+C:\Users\48535\OneDrive\Pulpit\C#\Intel8086\Intel8086\obj\Debug\net6.0\Intel8086.AssemblyInfo.cs
+C:\Users\48535\OneDrive\Pulpit\C#\Intel8086\Intel8086\obj\Debug\net6.0\Intel8086.csproj.CoreCompileInputs.cache
+C:\Users\48535\OneDrive\Pulpit\C#\Intel8086\Intel8086\obj\Debug\net6.0\Intel8086.dll
+C:\Users\48535\OneDrive\Pulpit\C#\Intel8086\Intel8086\obj\Debug\net6.0\refint\Intel8086.dll
+C:\Users\48535\OneDrive\Pulpit\C#\Intel8086\Intel8086\obj\Debug\net6.0\Intel8086.pdb
+C:\Users\48535\OneDrive\Pulpit\C#\Intel8086\Intel8086\obj\Debug\net6.0\Intel8086.genruntimeconfig.cache
+C:\Users\48535\OneDrive\Pulpit\C#\Intel8086\Intel8086\obj\Debug\net6.0\ref\Intel8086.dll
